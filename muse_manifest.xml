@@ -1,0 +1,168 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="DaryoshKarimi.github.io" resolutions="1x,2x" timestamp="1556547695473">
+  <folder name="css">
+    <file name="site_global.css" crc="3933329956"/>
+    <file name="index.css" crc="3774566529" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:tablet>index:index"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index:index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="tablet>index"/>
+  </folder>
+  <folder name="images">
+    <file name="u234-4.png" crc="346246107" ref="phone>index"/>
+    <file name="u234-4_2x.png" crc="3965715284" ref="phone>index"/>
+    <file name="u235-5.png" crc="61402530" ref="phone>index"/>
+    <file name="u235-5_2x.png" crc="240115703" ref="phone>index"/>
+    <file name="u241-4.png" crc="4247633420" ref="phone>index"/>
+    <file name="u241-4_2x.png" crc="284880362" ref="phone>index"/>
+    <file name="u240-4.png" crc="4213823055" ref="phone>index"/>
+    <file name="u240-4_2x.png" crc="4203304080" ref="phone>index"/>
+    <file name="u242-6.png" crc="84290106" ref="phone>index"/>
+    <file name="u242-6_2x.png" crc="134398527" ref="phone>index"/>
+    <file name="u236-5.png" crc="3815069665" ref="phone>index"/>
+    <file name="u236-5_2x.png" crc="370608097" ref="phone>index"/>
+    <file name="u271-4.png" crc="303635623" ref="tablet>index"/>
+    <file name="u271-4_2x.png" crc="13737365" ref="tablet>index"/>
+    <file name="u273-5.png" crc="487271988" ref="tablet>index"/>
+    <file name="u273-5_2x.png" crc="4082758808" ref="tablet>index"/>
+    <file name="u272-5.png" crc="4059755313" ref="tablet>index"/>
+    <file name="u272-5_2x.png" crc="4097533816" ref="tablet>index"/>
+    <file name="u277-4.png" crc="457549929" ref="tablet>index"/>
+    <file name="u277-4_2x.png" crc="294804044" ref="tablet>index"/>
+    <file name="u278-4.png" crc="3955471945" ref="tablet>index"/>
+    <file name="u278-4_2x.png" crc="4027409325" ref="tablet>index"/>
+    <file name="u279-6.png" crc="229701074" ref="tablet>index"/>
+    <file name="u279-6_2x.png" crc="35561936" ref="tablet>index"/>
+    <file name="u85-6.png" crc="3941533110" ref="index"/>
+    <file name="u85-6_2x.png" crc="4023024319" ref="index"/>
+    <file name="u91-5.png" crc="109097317" ref="index"/>
+    <file name="u91-5_2x.png" crc="4110344408" ref="index"/>
+    <file name="u90-4.png" crc="45240553" ref="index"/>
+    <file name="u90-4_2x.png" crc="352839436" ref="index"/>
+    <file name="email for website.png" crc="112584262" seo="true" ref="index"/>
+    <file name="email for website_2x.png" crc="3881946192" seo="true" ref="index"/>
+    <file name="letthemstay mockup-v1.png" crc="4286180913" seo="true" ref="index"/>
+    <file name="letthemstay mockup-v1_2x.png" crc="3768469256" seo="true" ref="index"/>
+    <file name="u552-8.png" crc="194218447" ref="index"/>
+    <file name="u552-8_2x.png" crc="503391718" ref="index"/>
+    <file name="20131115-folio_shoot-738.jpg" crc="215385772" seo="true" ref="index"/>
+    <file name="20131115-folio_shoot-738_2x.jpg" crc="4250043577" seo="true" ref="index"/>
+    <file name="20131115-folio_shoot-756.jpg" crc="172759725" seo="true" ref="index"/>
+    <file name="20131115-folio_shoot-756_2x.jpg" crc="150709379" seo="true" ref="index"/>
+    <file name="20131115-folio_shoot-745-crop-u296.jpg" crc="405098808" ref="index"/>
+    <file name="20131115-folio_shoot-745-crop-u296_2x.jpg" crc="383023950" ref="index"/>
+    <file name="u558-8.png" crc="3759582452" ref="index"/>
+    <file name="u558-8_2x.png" crc="430970590" ref="index"/>
+    <file name="20131115-folio_shoot-894-edit-edit.jpg" crc="4180348779" seo="true" ref="index"/>
+    <file name="20131115-folio_shoot-844.jpg" crc="3895313036" seo="true" ref="index"/>
+    <file name="20131115-folio_shoot-844_2x.jpg" crc="255880163" seo="true" ref="index"/>
+    <file name="20131115-folio_shoot-863.jpg" crc="340718919" seo="true" ref="index"/>
+    <file name="20131115-folio_shoot-863_2x.jpg" crc="4194019344" seo="true" ref="index"/>
+    <file name="u562-7.png" crc="281471881" ref="index"/>
+    <file name="u562-7_2x.png" crc="418895599" ref="index"/>
+    <file name="u565-9.png" crc="384594261" ref="index"/>
+    <file name="u565-9_2x.png" crc="237371104" ref="index"/>
+    <file name="img_3293.jpg" crc="4220185869" seo="true" ref="index"/>
+    <file name="img_3293_2x.jpg" crc="204837008" seo="true" ref="index"/>
+    <file name="20131115-folio_shoot-930.jpg" crc="279332540" seo="true" ref="index"/>
+    <file name="20131115-folio_shoot-930_2x.jpg" crc="4123795743" seo="true" ref="index"/>
+    <file name="20131115-folio_shoot-980.jpg" crc="3931256754" seo="true" ref="index"/>
+    <file name="20131115-folio_shoot-980_2x.jpg" crc="4061920331" seo="true" ref="index"/>
+    <file name="photobooks-broadsheets-11.jpg" crc="127999437" seo="true" ref="index"/>
+    <file name="photobooks-broadsheets-11_2x.jpg" crc="4234582514" seo="true" ref="index"/>
+    <file name="photobooks-broadsheets-thumbnail.jpg" crc="4198270070" seo="true" ref="index"/>
+    <file name="photobooks-broadsheets-thumbnail_2x.jpg" crc="3867578854" seo="true" ref="index"/>
+    <file name="u568-12.png" crc="4154711570" ref="index"/>
+    <file name="u568-12_2x.png" crc="149134027" ref="index"/>
+    <file name="tsol-flyer mockup-v1.jpg" crc="4161189003" seo="true" ref="index"/>
+    <file name="tsol-flyer mockup-v1_2x.jpg" crc="3882493018" seo="true" ref="index"/>
+    <file name="u572-9.png" crc="3831656799" ref="index"/>
+    <file name="u572-9_2x.png" crc="3983586551" ref="index"/>
+    <file name="terry virts poster mockup-v1-crop-u461.jpg" crc="4238179055" ref="index"/>
+    <file name="terry virts poster mockup-v1-crop-u461_2x.jpg" crc="4293976849" ref="index"/>
+    <file name="tsol-sydney mockup-v1.jpg" crc="30727178" seo="true" ref="index"/>
+    <file name="tsol-sydney mockup-v1_2x.jpg" crc="4040480918" seo="true" ref="index"/>
+    <file name="tsol-fb mockup-v1.jpg" crc="4089639625" seo="true" ref="index"/>
+    <file name="tsol-fb mockup-v1_2x.jpg" crc="4276353720" seo="true" ref="index"/>
+    <file name="playdate-bc mockup-v1.jpg" crc="228914861" seo="true" ref="index"/>
+    <file name="playdate-bc mockup-v1_2x.jpg" crc="4187863017" seo="true" ref="index"/>
+    <file name="u573-9.png" crc="3774646054" ref="index"/>
+    <file name="u573-9_2x.png" crc="122997317" ref="index"/>
+    <file name="bassett_web_3.jpg" crc="511756465" seo="true" ref="index"/>
+    <file name="bassett_web_3_2x.jpg" crc="89647566" seo="true" ref="index"/>
+    <file name="u579-9.png" crc="4129888504" ref="index"/>
+    <file name="u579-9_2x.png" crc="413724756" ref="index"/>
+    <file name="momentary-branding-v21-03.jpg" crc="525698121" seo="true" ref="index"/>
+    <file name="momentary-branding-v21-03_2x.jpg" crc="78080488" seo="true" ref="index"/>
+    <file name="u577-9.png" crc="459738294" ref="index"/>
+    <file name="u577-9_2x.png" crc="4174374431" ref="index"/>
+    <file name="entity workshop mockup-v1.jpg" crc="4065645079" seo="true" ref="index"/>
+    <file name="entity workshop mockup-v1_2x.jpg" crc="350792705" seo="true" ref="index"/>
+    <file name="img_2609.jpg" crc="3955595747" seo="true" ref="index"/>
+    <file name="img_2609_2x.jpg" crc="3976846650" seo="true" ref="index"/>
+    <file name="u581-9.png" crc="127008008" ref="index"/>
+    <file name="u581-9_2x.png" crc="380764294" ref="index"/>
+    <file name="muts-web-v11_o.jpg" crc="4201155691" seo="true" ref="index"/>
+    <file name="muts-web-v11_o_2x.jpg" crc="513161175" seo="true" ref="index"/>
+    <file name="img_9429_o.jpg" crc="4093838906" seo="true" ref="index"/>
+    <file name="img_9429_o_2x.jpg" crc="359796447" seo="true" ref="index"/>
+    <file name="mqff-3.jpg" crc="250952547" seo="true" ref="index"/>
+    <file name="mqff-3_2x.jpg" crc="4167819105" seo="true" ref="index"/>
+    <file name="u583-9.png" crc="3863400766" ref="index"/>
+    <file name="u583-9_2x.png" crc="3882165739" ref="index"/>
+    <file name="u675-4.png" crc="342865065" ref="index"/>
+    <file name="u675-4_2x.png" crc="3984860817" ref="index"/>
+    <file name="u721-4.png" crc="4238913715" ref="index"/>
+    <file name="u721-4_2x.png" crc="297777563" ref="index"/>
+    <file name="gn-bag-42.jpg" crc="4053287519" seo="true" ref="index"/>
+    <file name="gn-bag-42_2x.jpg" crc="3574446" seo="true" ref="index"/>
+    <file name="gn-bag-4-crop-u493.jpg" crc="451193880" ref="index"/>
+    <file name="gn-bag-4-crop-u493_2x.jpg" crc="437675849" ref="index"/>
+    <file name="u586-7.png" crc="196541700" ref="index"/>
+    <file name="u586-7_2x.png" crc="4265526295" ref="index"/>
+    <file name="gn-framed poster-2.jpg" crc="4262087406" seo="true" ref="index"/>
+    <file name="gn-framed poster-2_2x.jpg" crc="59776344" seo="true" ref="index"/>
+    <file name="evelyn-13oct-promo 1-v2-crop-u517.jpg" crc="435356955" ref="index"/>
+    <file name="evelyn-13oct-promo 1-v2-crop-u517_2x.jpg" crc="257103005" ref="index"/>
+    <file name="gn-neonposter-3.jpg" crc="88765526" seo="true" ref="index"/>
+    <file name="gn-neonposter-3_2x.jpg" crc="4045471916" seo="true" ref="index"/>
+    <file name="u642-7.png" crc="306489567" ref="index"/>
+    <file name="u642-7_2x.png" crc="80422322" ref="index"/>
+    <file name="waxonwaxoff-v2.jpg" crc="4209243647" seo="true" ref="index"/>
+    <file name="waxonwaxoff-v2_2x.jpg" crc="4247048786" seo="true" ref="index"/>
+    <file name="tsol - birthday invitation - v2.jpg" crc="3798052598" seo="true" ref="index"/>
+    <file name="tsol - birthday invitation - v2_2x.jpg" crc="415162284" seo="true" ref="index"/>
+    <file name="oxfam exercise-v1-01.jpg" crc="4055376424" seo="true" ref="index"/>
+    <file name="oxfam exercise-v1-01_2x.jpg" crc="4209901423" seo="true" ref="index"/>
+    <file name="ferdyrdurke - 10 march - v12.jpg" crc="4065937204" seo="true" ref="index"/>
+    <file name="ferdyrdurke - 10 march - v12_2x.jpg" crc="108356350" seo="true" ref="index"/>
+    <file name="13 april - instagram promo 12.jpg" crc="4244738184" seo="true" ref="index"/>
+    <file name="13 april - instagram promo 12_2x.jpg" crc="4024960414" seo="true" ref="index"/>
+    <file name="tsol-guide to love-social tile 1200x1200.jpg" crc="3920447459" seo="true" ref="index"/>
+    <file name="tsol-guide to love-social tile 1200x1200_2x.jpg" crc="4225738408" seo="true" ref="index"/>
+    <file name="mockup_flat_flat_30x60_red_v.jpg" crc="4215473568" seo="true" ref="index"/>
+    <file name="mockup_flat_flat_30x60_red_v_2x.jpg" crc="292178309" seo="true" ref="index"/>
+    <file name="untitled-1.jpg" crc="99571525" seo="true" ref="index"/>
+    <file name="untitled-1_2x.jpg" crc="3785415586" seo="true" ref="index"/>
+    <file name="feelfree-giphy.gif" crc="527155947" seo="true" ref="index"/>
+    <file name="feelfree-giphy_2x.gif" crc="527155947" seo="true" ref="index"/>
+    <file name="u600-7.png" crc="114809824" ref="index"/>
+    <file name="u600-7_2x.png" crc="404359111" ref="index"/>
+    <file name="ff-purple logo-v1.jpg" crc="199002440" seo="true" ref="index"/>
+    <file name="ff-purple logo-v1_2x.jpg" crc="455965691" seo="true" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4243042256" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="299613463" seo="true" mt="1474021761928" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4153744539" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="36510834" seo="true" mt="1474021119966" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4204307398" seo="true" mt="1556544814884" redirect="true"/>
+</manifest>
