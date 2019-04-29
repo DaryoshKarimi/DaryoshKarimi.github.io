@@ -431,7 +431,5 @@
     <lastmod>2019-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://DaryoshKarimi.github.io/phone/index.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://DaryoshKarimi.github.io/tablet/index.html"/>
   </url>
 </urlset>

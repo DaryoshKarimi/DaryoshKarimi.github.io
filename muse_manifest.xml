@@ -1,39 +1,13 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="DaryoshKarimi.github.io" resolutions="1x,2x" timestamp="1556578640280">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="DaryoshKarimi.github.io" resolutions="1x,2x" timestamp="1556579687025">
   <folder name="css">
     <file name="site_global.css" crc="3933329956"/>
-    <file name="index.css" crc="232888300" ref="index"/>
+    <file name="index.css" crc="524383492" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:tablet>index:index"/>
-    <file name="museutils.js" crc="183364071" ref="phone>index:tablet>index:index"/>
-    <file name="museredirect.js" crc="40941066" ref="tablet>index:index"/>
-    <file name="jquery.watch.js" crc="71412426" ref="tablet>index"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u234-4.png" crc="346246107" ref="phone>index"/>
-    <file name="u234-4_2x.png" crc="3965715284" ref="phone>index"/>
-    <file name="u235-5.png" crc="61402530" ref="phone>index"/>
-    <file name="u235-5_2x.png" crc="240115703" ref="phone>index"/>
-    <file name="u241-4.png" crc="4247633420" ref="phone>index"/>
-    <file name="u241-4_2x.png" crc="284880362" ref="phone>index"/>
-    <file name="u240-4.png" crc="4213823055" ref="phone>index"/>
-    <file name="u240-4_2x.png" crc="4203304080" ref="phone>index"/>
-    <file name="u242-6.png" crc="84290106" ref="phone>index"/>
-    <file name="u242-6_2x.png" crc="134398527" ref="phone>index"/>
-    <file name="u236-5.png" crc="3815069665" ref="phone>index"/>
-    <file name="u236-5_2x.png" crc="370608097" ref="phone>index"/>
-    <file name="u271-4.png" crc="303635623" ref="tablet>index"/>
-    <file name="u271-4_2x.png" crc="13737365" ref="tablet>index"/>
-    <file name="u273-5.png" crc="487271988" ref="tablet>index"/>
-    <file name="u273-5_2x.png" crc="4082758808" ref="tablet>index"/>
-    <file name="u272-5.png" crc="4059755313" ref="tablet>index"/>
-    <file name="u272-5_2x.png" crc="4097533816" ref="tablet>index"/>
-    <file name="u277-4.png" crc="457549929" ref="tablet>index"/>
-    <file name="u277-4_2x.png" crc="294804044" ref="tablet>index"/>
-    <file name="u278-4.png" crc="3955471945" ref="tablet>index"/>
-    <file name="u278-4_2x.png" crc="4027409325" ref="tablet>index"/>
-    <file name="u279-6.png" crc="229701074" ref="tablet>index"/>
-    <file name="u279-6_2x.png" crc="35561936" ref="tablet>index"/>
     <file name="u85-8.png" crc="4235645518" ref="index"/>
     <file name="u85-8_2x.png" crc="3996069895" ref="index"/>
     <file name="u91-5.png" crc="109097317" ref="index"/>
@@ -152,17 +126,5 @@
     <file name="ff-purple logo-v1.jpg" crc="199002440" seo="true" ref="index"/>
     <file name="ff-purple logo-v1_2x.jpg" crc="455965691" seo="true" ref="index"/>
   </folder>
-  <folder name="tablet">
-    <folder name="css">
-      <file name="index.css" crc="4243042256" ref="tablet>index"/>
-    </folder>
-    <file name="index.html" crc="299613463" seo="true" mt="1474021761928" redirect="true"/>
-  </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="4153744539" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="36510834" seo="true" mt="1474021119966" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="337141296" seo="true" mt="1556578612953" redirect="true"/>
+  <file name="index.html" crc="4141595454" seo="true" mt="1556579660739" redirect="true"/>
 </manifest>
