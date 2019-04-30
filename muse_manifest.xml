@@ -1,15 +1,13 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="DaryoshKarimi.github.io" resolutions="1x,2x" timestamp="1556592981922">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="DaryoshKarimi.github.io" resolutions="1x,2x" timestamp="1556600584854">
   <folder name="css">
-    <file name="site_global.css" crc="3933329956"/>
-    <file name="index.css" crc="485571155" ref="index"/>
+    <file name="site_global.css" crc="4144335015"/>
+    <file name="index.css" crc="4210281733" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
     <file name="museutils.js" crc="183364071" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u85-8.png" crc="4235645518" ref="index"/>
-    <file name="u85-8_2x.png" crc="3996069895" ref="index"/>
     <file name="u91-5.png" crc="109097317" ref="index"/>
     <file name="u91-5_2x.png" crc="4110344408" ref="index"/>
     <file name="u90-4.png" crc="45240553" ref="index"/>
@@ -24,8 +22,8 @@
     <file name="20131115-folio_shoot-738_2x.jpg" crc="4250043577" seo="true" ref="index"/>
     <file name="20131115-folio_shoot-756.jpg" crc="172759725" seo="true" ref="index"/>
     <file name="20131115-folio_shoot-756_2x.jpg" crc="150709379" seo="true" ref="index"/>
-    <file name="20131115-folio_shoot-745-crop-u296.jpg" crc="405098808" ref="index"/>
-    <file name="20131115-folio_shoot-745-crop-u296_2x.jpg" crc="383023950" ref="index"/>
+    <file name="20131115-folio_shoot-745-crop-u296.jpg" crc="4180926708" ref="index"/>
+    <file name="20131115-folio_shoot-745-crop-u296_2x.jpg" crc="4086686502" ref="index"/>
     <file name="u558-8.png" crc="3759582452" ref="index"/>
     <file name="u558-8_2x.png" crc="430970590" ref="index"/>
     <file name="20131115-folio_shoot-894-edit-edit.jpg" crc="4180348779" seo="true" ref="index"/>
@@ -125,6 +123,10 @@
     <file name="ff-purple logo-v1_2x.jpg" crc="455965691" seo="true" ref="index"/>
     <file name="tsol - birthday invitation - web.jpg" crc="3930646678" seo="true" ref="index"/>
     <file name="tsol - birthday invitation - web_2x.jpg" crc="3860121810" seo="true" ref="index"/>
+    <file name="web title.png" crc="4094146002" seo="true" ref="index"/>
+    <file name="web title_2x.png" crc="393488353" seo="true" ref="index"/>
+    <file name="u85-6.png" crc="131098176" ref="index"/>
+    <file name="u85-6_2x.png" crc="401343876" ref="index"/>
   </folder>
-  <file name="index.html" crc="103824565" seo="true" mt="1556592941655" redirect="true"/>
+  <file name="index.html" crc="3943387792" seo="true" mt="1556600287375" redirect="true"/>
 </manifest>
