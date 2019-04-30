@@ -319,18 +319,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://DaryoshKarimi.github.io/images/tsol%20-%20birthday%20invitation%20-%20v2.jpg</loc>
-    <lastmod>2019-04-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://DaryoshKarimi.github.io/images/tsol%20-%20birthday%20invitation%20-%20v2_2x.jpg</loc>
-    <lastmod>2019-04-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://DaryoshKarimi.github.io/images/oxfam%20exercise-v1-01.jpg</loc>
     <lastmod>2019-04-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -422,6 +410,18 @@
   </url>
   <url>
     <loc>http://DaryoshKarimi.github.io/images/ff-purple%20logo-v1_2x.jpg</loc>
+    <lastmod>2019-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://DaryoshKarimi.github.io/images/tsol%20-%20birthday%20invitation%20-%20web.jpg</loc>
+    <lastmod>2019-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://DaryoshKarimi.github.io/images/tsol%20-%20birthday%20invitation%20-%20web_2x.jpg</loc>
     <lastmod>2019-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
