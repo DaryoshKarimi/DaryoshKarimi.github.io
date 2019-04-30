@@ -1,15 +1,16 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="DaryoshKarimi.github.io" resolutions="1x,2x" timestamp="1556600584854">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="DaryoshKarimi.github.io" resolutions="1x,2x" timestamp="1556600826282">
+  <folder name="assets">
+    <file name="mylifeinbulletpoints.pdf" crc="3994844685" seo="true" mt="1556508994000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="4144335015"/>
-    <file name="index.css" crc="4210281733" ref="index"/>
+    <file name="index.css" crc="80927018" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
     <file name="museutils.js" crc="183364071" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u91-5.png" crc="109097317" ref="index"/>
-    <file name="u91-5_2x.png" crc="4110344408" ref="index"/>
     <file name="u90-4.png" crc="45240553" ref="index"/>
     <file name="u90-4_2x.png" crc="352839436" ref="index"/>
     <file name="email for website.png" crc="112584262" seo="true" ref="index"/>
@@ -127,6 +128,8 @@
     <file name="web title_2x.png" crc="393488353" seo="true" ref="index"/>
     <file name="u85-6.png" crc="131098176" ref="index"/>
     <file name="u85-6_2x.png" crc="401343876" ref="index"/>
+    <file name="u91-4.png" crc="3959102966" ref="index"/>
+    <file name="u91-4_2x.png" crc="397148943" ref="index"/>
   </folder>
-  <file name="index.html" crc="3943387792" seo="true" mt="1556600287375" redirect="true"/>
+  <file name="index.html" crc="441123702" seo="true" mt="1556600808138" redirect="true"/>
 </manifest>
